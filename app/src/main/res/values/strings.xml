@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Average</string>
+    <string name="app_title">Média de Notas</string>
+    <string name="placeholder_nota1">Ex.: 90</string>
+    <string name="placeholder_nota2">Ex.: 100</string>
+    <string name="placeholder_nota3">Ex.: 85</string>
+    <string name="btn_text">Calcular</string>
+</resources>
